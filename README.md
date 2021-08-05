@@ -21,6 +21,7 @@ If you have already configured an aws user you have to insert the **Access Key I
 ### Deploying the infrastructure
 
 In order to deploy your infrastructure execute the following script inside the **cloudformation/** folder:
+
 NOTE: **You can deploy on any region so you could replace the value us-west-2**
 
     sh ./create.sh workshop-devops network_and_eks.yml network_and_eks.json us-west-2
