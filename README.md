@@ -63,3 +63,7 @@ Before execute the following commands be sure that you are in the **k8s/** folde
 6. Remove the infrastructure:
 
    `sh ./destroy.sh workshop-devops network_and_eks.yml network_and_eks.json`
+
+### Next steps
+
+- Configure your pipeline
